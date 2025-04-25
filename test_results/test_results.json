@@ -1,0 +1,29 @@
+{
+  "perplexity": 58.74717767377992,
+  "accuracy": {
+    "exact_match": 0.0,
+    "bleu": 0.0,
+    "rouge_l": 0.0
+  },
+  "sample_generations": [
+    {
+      "prompt": "Their love wasn't loud. It was in every structure completed, every impossible height a",
+      "generated": "[UNK]heir[UNK]love[UNK]wasn[UNK]t[UNK]loud.[UNK][UNK]t[UNK]was[UNK]in[UNK]every[UNK]structure[UNK]completed,[UNK]every[UNK]impossible[UNK]hei[UNK]ht[UNK]aabyrelovphulorArt"
+    }
+  ],
+  "model_info": {
+    "parameter_count": {
+      "total": 3199567,
+      "trainable": 3199567
+    },
+    "config": {
+      "vocab_size": 79,
+      "d_model": 256,
+      "num_heads": 4,
+      "num_layers": 4,
+      "d_ff": 1024,
+      "max_seq_len": 512,
+      "dropout": 0.1
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "train_size": 16,
+  "val_size": 2,
+  "test_size": 2
+}
