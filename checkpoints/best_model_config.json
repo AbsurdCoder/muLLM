@@ -1,5 +1,5 @@
 {
-  "vocab_size": 79,
+  "vocab_size": 34,
   "d_model": 256,
   "num_heads": 4,
   "num_layers": 4,
